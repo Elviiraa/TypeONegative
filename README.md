@@ -1,0 +1,2 @@
+# TypeONegative
+Egen hemsida. Grund. 
